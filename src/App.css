@@ -1,0 +1,18 @@
+img{
+  max-width: 200px;
+}
+
+.imagediv{
+  float: left;
+}
+
+.page{
+  float:left;
+  border: solid 5px black;
+  width: 840px;
+  height: 1190px;
+}
+
+.name{
+  float:left;
+}
